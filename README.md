@@ -1,7 +1,7 @@
 <div id="header" align="center">
         <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="200" />
         <h1 align="center">Hello 👋, I'm Angie</h1>        
-        <h4 align="">Fullstack developer, passionate about new technologies, continuous learning, teamwork is essential as well as effective communication and the application of good practices for the development of scalable software. 😉</h4>
+        <h4 align="">Fullstack developer from Colombia, passionate about new technologies, continuous learning, teamwork is essential as well as effective communication and the application of good practices for the development of scalable software. 😉</h4>
 </div>
 
 <div id="badges" align="center">
@@ -17,11 +17,11 @@
 
 - 📝 I'm an industrial engineer and currently working on my system's
 engineer degree therefore I had taken curses in web programing
-with sergio arboleda university also i'm taking a backend course with ONE (Oracle Next Education) 
+with sergio arboleda university also i'm taking a backend course 📚 with [ONE](https://www.oracle.com/pe/education/oracle-next-education/) (Oracle Next Education) 
 - 🌱 I’m currently learning **MongoDB, Docker, AWS**
 - 💬 Ask me about **Java, Html5, CSS3, Javascript**
 - 📫 How to reach me **vannesa.hernandez@hotmail.com**
-- 🚀  I currently working at [Banco Caja Social](https://www.bancocajasocial.com/portalserver/bcs-public/inicio)
+- 🚀  I currently working on [Banco Caja Social](https://www.bancocajasocial.com/portalserver/bcs-public/inicio)
 - 💾 [Get my CV](poner enlace)
 
 <div align="left">
