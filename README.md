@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="" target="_blank">
+    <a href="https://www.linkedin.com/in/angie-vannesa-hernandez-chivata-643a04141/" target="_blank">
         <img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangie-vannesa-hernandez-chivata-643a04141%2F"
             alt="LinkedIn Badge" />
  </a>
