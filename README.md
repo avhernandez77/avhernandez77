@@ -22,7 +22,7 @@ with sergio arboleda university also i'm taking a backend course 📚 with [ONE]
 - 💬 Ask me about **Java, Html5, CSS3, Javascript**
 - 📫 How to reach me **vannesa.hernandez@hotmail.com**
 - 🚀  I currently working on [Banco Caja Social](https://www.bancocajasocial.com/portalserver/bcs-public/inicio)
-- 💾 [Get my CV](poner enlace)
+- 💾 [Get my CV](https://github.com/avhernandez77/CV_Angie_Hernandez/blob/main/CV%20Angie%20Hernandez.pdf)
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
